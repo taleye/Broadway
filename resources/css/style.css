@@ -7,21 +7,23 @@ body {
   background-image: url("../images/the-flatiron-building.png");
 }
 
+.white {
+  color: white;
+}
+
 h1,
 h2,
-h3,
-h4 {
+h3 {
   font-weight: bold;
 }
 
 h1 {
-  color: white;
   font-size: 70px;
 }
 
 a {
-  color: white;
   font-size: 18px;
+  color: white;
 }
 
 li {
@@ -40,13 +42,8 @@ p {
   font-size: 14px;
 }
 
-#subhead {
-  color: white;
-}
-
 footer {
   text-align: left;
   font-size: 11px;
-  color: white;
   background-color: dimgray;
 }
