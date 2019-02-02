@@ -19,7 +19,7 @@ h1 {
   font-size: 70px;
 }
 
-header a {
+a {
   color: white;
   font-size: 18px;
 }
@@ -45,6 +45,7 @@ p {
 }
 
 footer {
+  text-align: left;
   font-size: 11px;
   color: white;
   background-color: dimgray;
