@@ -5,6 +5,7 @@ body {
 
 .bg-image {
   background-image: url("../images/the-flatiron-building.png");
+  background-size: 1333px 292px;
 }
 
 .white {
@@ -26,8 +27,14 @@ a {
   color: white;
 }
 
-li {
+ul {
   list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  padding-top: 12px;
 }
 
 h2 {
